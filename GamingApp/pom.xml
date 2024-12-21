@@ -49,16 +49,8 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>6.2.1</version>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-framework-bom -->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-framework-bom</artifactId>
-            <version>6.2.1</version>
-            <type>pom</type>
-        </dependency>
 
     </dependencies>
 
